@@ -21,6 +21,7 @@ origins = [
     "http://localhost",
     "http://localhost:8080",
     "https://dap-claim-extraction.onrender.com"
+    "https://claim-extraction.onrender.com"
 ]
 
 app.add_middleware(
